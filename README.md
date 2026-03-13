@@ -10,3 +10,5 @@ This repository lists my Solidity projects.
 # My Book
 <p><strong>Solidity Mastery Beginner to Intermediate: A Complete Guide to Ethereum Smart Contract Development</strong></p>
 <p></p>https://www.amazon.com/dp/B0GS2P87GW</p>
+# Solidity Tutorial
+<p>https://www.blockchainguide.biz/solidity-tutorial-learn-ethereum-smart-contract-programming/</p>
