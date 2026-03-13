@@ -8,4 +8,5 @@ This repository lists my Solidity projects.
 <li>https://github.com/liewvk/Hardhat
 </ul>
 # My Book
+<p>Solidity Mastery Beginner to Intermediate: A Complete Guide to Ethereum Smart Contract Development</p>
 <p></p>https://www.amazon.com/dp/B0GS2P87GW</p>
