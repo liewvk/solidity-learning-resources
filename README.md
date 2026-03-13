@@ -1,7 +1,10 @@
 # solidity-learning-resources
 This repository lists my Solidity projects.
 # Solidity Smart Contract Projects
--https://github.com/liewvk/KittyChainShop<br>
--https://github.com/liewvk/Project_TScript<br>
--https://github.com/liewvk/Project_Sepolia
+<ul>
+<li>https://github.com/liewvk/KittyChainShop
+<li>https://github.com/liewvk/Project_TScript
+<li>https://github.com/liewvk/Project_Sepolia
+<li>https://github.com/liewvk/Hardhat
+</ul>
 
